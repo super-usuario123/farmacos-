@@ -1,0 +1,26 @@
+/* styles.css */
+
+/* Estilo para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;  /* Establece la fuente */
+    background-color: #f4f4f4;      /* Fondo gris claro */
+    color: #333;                    /* Color de texto */
+    margin: 0;                       /* Elimina márgenes por defecto */
+    padding: 0;                      /* Elimina rellenos por defecto */
+}
+
+/* Estilo para el encabezado */
+header {
+    background-color: #007BFF;      /* Fondo azul */
+    color: white;                   /* Color de texto blanco */
+    padding: 20px;                  /* Espaciado interno */
+    text-align: center;             /* Centra el texto */
+}
+
+/* Estilo para el pie de página */
+footer {
+    background-color: #333;         /* Fondo oscuro */
+    color: white;                   /* Color de texto blanco */
+    text-align: center;             /* Centra el texto */
+    padding: 10px;                  /* Espaciado interno */
+}
